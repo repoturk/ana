@@ -3,7 +3,7 @@ aiofiles
 aioshutil
 anytree
 apscheduler
-aria2p
+git+https://github.com/rajanvibes/required01
 asyncio
 beautifulsoup4
 cfscrape
@@ -26,11 +26,11 @@ pymongo
 pyrogram
 python-dotenv
 python-magic
-qbittorrent-api
+https://github.com/rajanvibes/required02
 requests
 telegraph
 tenacity
 tgcrypto
 uvloop
 xattr
-yt-dlp
+git+https://github.com/rajanvibes/required03
